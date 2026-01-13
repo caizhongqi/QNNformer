@@ -1,0 +1,39 @@
+test_PatchTST_custom_ftM_sl96_ll48_pl96_dm16_nh4_el7_dl1_df128_fc1_ebtimeF_dtTrue_test_0
+mse:0.45376071333885193, mae:0.4599945843219757
+
+test_PatchTST_custom_ftM_sl96_ll48_pl96_dm16_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_test_0  
+mse:0.44673073291778564, mae:0.45679497718811035
+
+test_PatchTST_custom_ftM_sl96_ll48_pl96_dm16_nh8_el3_dl1_df128_fc1_ebtimeF_dtTrue_test_0  
+mse:0.4540063738822937, mae:0.45987409353256226
+
+test_PatchTST_custom_ftM_sl96_ll48_pl96_dm16_nh8_el3_dl1_df128_fc1_ebtimeF_dtTrue_test_0  
+mse:0.4540063738822937, mae:0.4598740935325622（原始的）
+
+test_PatchTST_custom_ftM_sl96_ll48_pl96_dm1024_nh16_el4_dl2_df128_fc1_ebtimeF_dtTrue_test_0  
+mse:0.42418625950813293, mae:0.44911471009254456（量子神经网络）
+
+test_PatchTST_custom_ftM_sl96_ll48_pl96_dm512_nh4_el3_dl2_df128_fc1_ebtimeF_dtTrue_test_0  
+mse:0.43333330750465393, mae:0.4510633945465088
+
+test_PatchTST_custom_ftM_sl96_ll48_pl96_dm512_nh4_el3_dl2_df128_fc1_ebtimeF_dtTrue_test_0  
+mse:0.453716516494751, mae:0.4672045409679413
+
+test_PatchTST_custom_ftM_sl96_ll48_pl96_dm16_nh4_el3_dl2_df128_fc1_ebtimeF_dtTrue_test_0  
+mse:0.4692564010620117, mae:0.4703187048435211（原始的）
+
+test_PatchTST_custom_ftM_sl96_ll48_pl96_dm512_nh4_el3_dl2_df128_fc1_ebtimeF_dtTrue_test_0  
+mse:0.46064358949661255, mae:0.4665047526359558 （加上正则化的）
+
+test_PatchTST_custom_ftM_sl96_ll48_pl96_dm512_nh4_el3_dl2_df128_fc1_ebtimeF_dtTrue_test_0  
+mse:0.4537164568901062, mae:0.4672054350376129 （没有正则化）
+
+test_PatchTST_custom_ftM_sl96_ll48_pl96_dm512_nh4_el3_dl2_df128_fc1_ebtimeF_dtTrue_test_0  
+mse:0.4472770094871521, mae:0.4594428539276123（最新的）
+
+test_PatchTST_custom_ftM_sl96_ll48_pl96_dm16_nh4_el3_dl2_df128_fc1_ebtimeF_dtTrue_test_0  
+mse:0.4692564010620117, mae:0.4703187048435211
+
+test_PatchTST_custom_ftM_sl96_ll48_pl96_dm512_nh4_el3_dl4_df128_fc1_ebtimeF_dtTrue_test_0  
+mse:0.20353583991527557, mae:0.3098926246166229
+
